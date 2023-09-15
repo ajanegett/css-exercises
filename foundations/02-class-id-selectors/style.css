@@ -1,0 +1,20 @@
+.redd {
+    background-color: rgba(255, 0, 93, 0.475); /*RGB*/
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.redd.diff {
+    font-size: 24px;
+}
+
+#second {
+    color: rgb(0, 85, 255);
+    font-size: 36px;
+}
+
+#fourth {
+    background-color: rgba(0, 255, 0, 0.403);
+    font-size: 24px;
+    font-weight: bold;
+}
+
